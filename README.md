@@ -6,7 +6,7 @@ $ cat readme.txt
 │  age: 13                                                        │
 │  status: student                                                │
 │  learning: Python                                               │
-│  location: /home/ncatt                                          │
+│  location: /home/nc4tt                                          │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 
